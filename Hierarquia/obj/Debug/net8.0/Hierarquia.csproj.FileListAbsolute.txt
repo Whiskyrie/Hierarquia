@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\bin\Debug\net8.0\Hierarquia.exe
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\bin\Debug\net8.0\Hierarquia.deps.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\bin\Debug\net8.0\Hierarquia.runtimeconfig.json
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\bin\Debug\net8.0\Hierarquia.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\bin\Debug\net8.0\Hierarquia.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\refint\Hierarquia.dll
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.pdb
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\Hierarquia.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Documentos\Projetos C#\Hierarquia\Hierarquia\obj\Debug\net8.0\ref\Hierarquia.dll
